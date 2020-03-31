@@ -2,34 +2,12 @@
 
 Hello everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memorial University of Newfoundland (Class of '21). This page is the homepage to display any projects that I'm working on, feel free to take a look.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Darts Scoreboard](https://github.com/matthickey709/darts-scoreboard-web). This scoreboard is the sequel to the original [Java Darts Scoreboard](https://github.com/matthickey709/DartsScoreboard), but written in React instead. It can currently score games of 501, 301, and Around the World, with more game modes coming soon. A live version of the app can be found [here](https://mhickey.ca/darts-scoreboard-web).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthickey709/matthickey709.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* [uomi Android Application](https://github.com/hickeyjohnson/uomi_application) and [uomi REST API](https://github.com/hickeyjohnson/uomi_api). These projects were completed as part of my degree's junior design project alongside [Nathaniel Johnson](https://github.com/nathaniel19). It is an app where friends can track money owed either to each other, or as groups. The REST API was written with Flask, using Swagger as the documentation generator.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to reach out, feel free to email me at mjh060[at]mun.ca, or find me on [LinkedIn](www.linkedin.com/in/matthewjhickey).
