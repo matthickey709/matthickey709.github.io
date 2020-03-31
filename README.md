@@ -1,8 +1,6 @@
 ## Welcome to Matt's Page
 
-You can use the [editor on GitHub](https://github.com/matthickey709/matthickey709.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memorial University of Newfoundland (Class of '21). This page is the homepage to display any projects that I'm working on, feel free to take a look.
 
 ### Markdown
 
