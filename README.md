@@ -17,4 +17,4 @@ Hey everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memor
 
 ### Contact
 
-If you would like to reach out, feel free to email me at mjh060[at]mun.ca, find me on [LinkedIn](www.linkedin.com/in/matthewjhickey).
+If you would like to reach out, feel free to email me at matthew.hickey[at]mun.ca, find me on [LinkedIn](www.linkedin.com/in/matthewjhickey).
