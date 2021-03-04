@@ -12,7 +12,7 @@ Hey everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memor
 
 * **IN PROGRESS [IoT Guitar Pedal](https://galaxysounds.ca)** _If you wish to see the source code for this project please reach out._ Capstone project for Computer Engineering. Created a multi-platform client app using Flutter that controls guitar pedal paramaters and effects. Backend created using AWS AppSync, DynamoDB, Cognito, and IoT Core.
 
-* **IN PROGRESS Minecraft Settlement Generator**. Creating a Minecraft settlement generation AI that procedurally generates a Minecraft settlement that adapts to the existing environment. To be entered in the [2021 GDMC Competition](http://gendesignmc.engineering.nyu.edu). _Source code available after submission_.
+* **IN PROGRESS Minecraft Settlement Generator**. Creating a Minecraft settlement generation AI that procedurally generates a Minecraft settlement that adapts to the existing environment. To be entered in the [2021 GDMC Competition](http://gendesignmc.engineering.nyu.edu). Completed as final project for AI In Video Games course with [abporter](https://github.com/abporter). _Source code available after submission_. 
 
 * **[React Native Darts Scoreboard](https://github.com/matthickey709/darts-scoreboard-web)**. This scoreboard is the sequel to the original [Java version](https://github.com/matthickey709/DartsScoreboard), but written in React instead. It can currently score games of 501, 301, and Around the World, with more (Baseball, Cricket) game modes coming soon.
 
