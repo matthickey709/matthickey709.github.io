@@ -3,6 +3,7 @@
 Hey everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memorial University of Newfoundland (Class of '21). This page is the place where I display any projects that I'm working on, and some of my past work. Feel free to take a look.
 
 ### [Resume](https://drive.google.com/open?id=0B_g9BEQCJlDbYkZpbEJ4SEJYWnM)
+### [LinkedIn](https://linkedin.com/in/matthewjhickey)
 
 ### Live Apps
 * [Darts Scoreboard](https://mhickey.ca/darts-scoreboard-web)
