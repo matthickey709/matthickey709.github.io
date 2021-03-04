@@ -9,6 +9,8 @@ Hey everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memor
 
 ### Projects/Work
 
+* [IoT Guitar Pedal](https://galaxysounds.ca) _If you wish to see the source code for this project please reach out._ Capstone project for Computer Engineering. Created a multi-platform client app using Flutter that controls guitar pedal paramaters and effects. Backend created using AWS AppSync, DynamoDB, Cognito, and IoT Core.
+
 * [React Native Darts Scoreboard](https://github.com/matthickey709/darts-scoreboard-web). This scoreboard is the sequel to the original [Java version](https://github.com/matthickey709/DartsScoreboard), but written in React instead. It can currently score games of 501, 301, and Around the World, with more (Baseball, Cricket) game modes coming soon.
 
 * [uomi Android Application](https://github.com/hickeyjohnson/uomi_application) and [uomi REST API](https://github.com/hickeyjohnson/uomi_api). These projects were completed as part of my degree's junior design project alongside [Nathaniel Johnson](https://github.com/nathaniel19). It is an app where friends can track money owed either to each other, or as groups. The REST API was written with Flask, using Swagger as the documentation generator.
@@ -17,4 +19,4 @@ Hey everyone. I'm Matthew Hickey, a senior Computer Engineering student at Memor
 
 ### Contact
 
-If you would like to reach out, feel free to email me at matthew.hickey[at]mun.ca, find me on [LinkedIn](www.linkedin.com/in/matthewjhickey).
+If you would like to connect, feel free to email me at matthew.hickey[at]mun.ca, find me on [LinkedIn](www.linkedin.com/in/matthewjhickey).
