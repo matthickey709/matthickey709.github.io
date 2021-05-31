@@ -1,6 +1,6 @@
 ## Matthew Hickey, B.Eng
 
-Hey everyone. I'm Matthew Hickey, a Computer Engineering graduate from Memorial University of Newfoundland (B.Eng '21). This page is the place where I display any projects that I'm working on, and some of my past work. Feel free to take a look.
+I'm Matt, a Computer Engineering graduate from Memorial University of Newfoundland (B.Eng '21). This page is the place where I display any projects that I'm working on, and some of my past work. Feel free to take a look.
 
 ### [Resume](https://drive.google.com/open?id=0B_g9BEQCJlDbYkZpbEJ4SEJYWnM)
 ### [LinkedIn](https://linkedin.com/in/matthewjhickey)
