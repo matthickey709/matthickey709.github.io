@@ -12,7 +12,7 @@ I'm Matt, a Computer Engineering graduate from Memorial University of Newfoundla
 
 * **[IoT Guitar Pedal](https://galaxysounds.ca)** _If you wish to see the source code for this project please reach out._ Capstone project for Computer Engineering. Created a multi-platform client app using Flutter that controls guitar pedal paramaters and effects. Backend created using AWS AppSync, DynamoDB, Cognito, and IoT Core.
 
-* **[Minecraft Settlement Generator](https://github.com/matthickey709/gdmc)**. Creating a Minecraft settlement generation AI that procedurally generates a Minecraft settlement that adapts to the existing environment. Entered in the [2021 GDMC Competition](http://gendesignmc.engineering.nyu.edu). Completed alongside [abporter](https://github.com/abporter). 
+* **[Minecraft Settlement Generator](https://github.com/matthickey709/gdmc)**. Creating a Minecraft settlement generation AI that procedurally generates a Minecraft settlement that adapts to the existing environment. Entered in the [2021 GDMC Competition](http://gendesignmc.engineering.nyu.edu). Finished 7th overall with the 2nd-highest aesthetics score. Completed alongside [abporter](https://github.com/abporter). 
 
 * **[React Native Darts Scoreboard](https://github.com/matthickey709/darts-scoreboard-web)**. This scoreboard is the sequel to the original [Java version](https://github.com/matthickey709/DartsScoreboard), but written in React instead. It can currently score games of 501, 301, and Around the World, with more (Baseball, Cricket) game modes coming soon.
 
